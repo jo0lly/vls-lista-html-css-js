@@ -64,3 +64,10 @@ h4{
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.7);
 }
 
+.galeria-item {
+  transition: transform 0.3s ease;
+}
+
+.galeria-item:hover {
+  transform: scale(1.05);
+}
