@@ -34,11 +34,11 @@ h4{
     flex: 1 1 calc(33.33% - 20px);
     text-align: center;
      /* Elemento que queremos aplicar efeito */
-     transition: transform 0.6s ease;
+     transition: transform 0.3s ease;
 }
 
 .galeria-item:hover {
-    transform: scale(1.05);
+    transform: scale(1.03);
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.7);
 }
 
